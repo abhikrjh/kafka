@@ -1,0 +1,20 @@
+server:
+  port: 8081
+
+spring:
+  kafka:
+    consumer:
+      bootstrap-servers: localhost:9092
+
+# Custom created key myapp outside the spring.kafka namespace
+# We can define the topic name outside the spring.kafka namespace, like this:
+
+myapp:
+  kafka:
+    topic:
+      name: new-topic-2
+
+
+
+
+
