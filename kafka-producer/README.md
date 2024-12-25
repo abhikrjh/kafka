@@ -21,4 +21,4 @@ This project demonstrates a simple Kafka producer implemented in Spring Boot tha
 
 1. **Clone the repository:**
    ```bash
-   https://github.com/abhikrjh/kafka.git
+   git clone https://github.com/abhikrjh/kafka.git
