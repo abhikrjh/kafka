@@ -21,4 +21,4 @@ This project demonstrates a simple Kafka consumer implemented in Spring Boot. Th
 
 1. **Clone the repository:**
    ```bash
-   https://github.com/abhikrjh/kafka.git
+   git clone https://github.com/abhikrjh/kafka.git
