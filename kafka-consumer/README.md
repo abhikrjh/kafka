@@ -1,4 +1,4 @@
-# Kafka Consumer Project
+# Kafka Consumer Implementation
 
 This project demonstrates a simple Kafka consumer implemented in Spring Boot. The consumer listens to messages from a Kafka topic and logs the consumed messages. The consumer has 3 listeners that consume messages from the same topic concurrently.
 
