@@ -1,4 +1,4 @@
-# Kafka Producer Project
+# Kafka Producer Implementation
 
 This project demonstrates a simple Kafka producer implemented in Spring Boot that sends messages to a Kafka topic. The producer sends 100,000 messages to the specified topic, which has 3 partitions, with a resilience factor of 1.
 
