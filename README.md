@@ -1,4 +1,4 @@
-# Kafka Producer and Consumer Demo Project
+# Kafka Producer and Consumer Implementation
 
 This project demonstrates the integration of a Kafka producer and consumer using Spring Boot. The producer sends messages to a Kafka topic, while the consumer listens to and processes messages from the same topic. This setup simulates a typical messaging system with a producer-consumer architecture.
 
